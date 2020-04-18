@@ -12,5 +12,3 @@ class MyApp extends StatelessWidget {
 }
 
 // holly shit
-//WTF
-//ruwantha
